@@ -3,5 +3,5 @@ From an early age, I was surrounded by games and technology, I was always fascin
 <h3 align="center">My stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=exostin&count_private=true&show_icons=true" width="400" alt="my stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=exostin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true" width="400" alt="my stats" />
 </p>
