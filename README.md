@@ -3,7 +3,5 @@ From an early age, I was surrounded by games and technology, I was always fascin
 <h3 align="center">My stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exostin&layout=compact" width="400" alt="langs" />
-    <br />
   <img src="https://github-readme-stats.vercel.app/api?username=exostin&count_private=true&show_icons=true" width="400" alt="my stats" />
 </p>
