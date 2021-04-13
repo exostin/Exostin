@@ -1,5 +1,6 @@
 <h3 align="center">About me</h3>
-From an early age, I was surrounded by games and technology, I was always fascinated by the possibility of creating my own software. I am self-taught, so I started by trial and error with very simple applications in C++, then automation of tasks in Python, and finally I turned to create games in Unity engine using C# language. This way I've already worked on three projects, two of them in an international team, communicating only using English.
+
+From an early age, I was surrounded by games and technology, I was always fascinated by the possibility of creating my own software. I am self-taught, so I started by trial and error with very simple applications in C++, then automation of tasks in Python, and finally I turned to create games in Unity engine using C# language. This way I've already worked on three projects, two of them in an international team.
 
 <h3 align="center">My stats</h3>
 
