@@ -12,3 +12,4 @@ From an early age, I was surrounded by games and technology, always fascinated b
   <img src="https://github-readme-stats.vercel.app/api?username=exostin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true" width=450px alt="My GitHub stats"/>
 </p>
 
+![](https://hit.yhype.me/github/profile?user_id=18118467)
