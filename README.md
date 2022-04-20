@@ -1,6 +1,7 @@
 <h1 align="center">About me</h1>
 
-From an early age I was surrounded by games and technology, always fascinated by the possibility of creating my own software.
+I have always been surrounded by technology and games, endlessly fascinated by the possibility of creating my own software that could captivate others or simply carry out a task I want it to do.
+
 I had worked on two game projects in an international team. Currently I am a game developer and the team leader at [Expiry Date](https://github.com/exostin/ExpiryDate). It is a city builder game set during a climatic calamity, created in a team of ten as part of a Polish game development championship - ["Turniej Trójgamiczny"](https://www.t3g.pl/).
 My main goal is to grow in the game development industry and create cool things!
 
