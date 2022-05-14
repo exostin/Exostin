@@ -28,6 +28,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           base_indepth: yes
           config_timezone: Europe/Warsaw
+          config_display: large
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_limit: 4
