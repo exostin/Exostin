@@ -26,9 +26,7 @@ jobs:
           user: exostin
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_timezone: Europe/Warsaw
-          plugin_base_indepth: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
