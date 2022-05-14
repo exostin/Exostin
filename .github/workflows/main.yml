@@ -43,7 +43,7 @@ jobs:
           plugin_languages_skipped: exostin.github.io
           plugin_languages_threshold: 0%
           plugin_lines: yes
-          plugin_repositories: yes
+          plugin_repositories: 100
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_repositories_featured: exostin/ExpiryDate, exostin/UnityBattleships
