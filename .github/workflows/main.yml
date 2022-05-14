@@ -1,7 +1,7 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (daily)
+  # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
@@ -47,5 +47,7 @@ jobs:
           plugin_lines: yes
           plugin_repositories: yes
           plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
           plugin_repositories_featured: exostin/ExpiryDate, exostin/UnityBattleships
           repositories: 100
+          repositories_batch: 100
