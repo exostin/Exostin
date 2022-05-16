@@ -4,7 +4,7 @@
 - 🎮 Currently I am a game developer and the team leader at [Expiry Date](https://github.com/exostin/ExpiryDate).
   - 🌿 It is a city builder game set during a climatic calamity.
   - 🏆 Created in a team of ten as part of a Polish game development championship: ["Turniej Trójgamiczny"](https://www.t3g.pl/).
-- 👨‍💻 My main goal is to grow in the game development industry and create cool things!
+- 👨‍💻 My main goal is to grow in the game development industry, and I'd love to contribute to the open-source community!
 
 #### My metrics
 
