@@ -32,6 +32,7 @@ jobs:
           plugin_achievements_limit: 8
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: A
+          plugin_achievements_ignored: Infographile, member
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
