@@ -3,7 +3,7 @@
 - 🌎 Worked on two game projects in an international team.
 - 🎮 Have been a game developer and the team leader at [Expiry Date](https://github.com/exostin/ExpiryDate).
   - 🌿 Worked mainly on the turn-based battle system, but the game also consists of a city-building system!
-  - 🏆 The game was created in a team of ten, as part of a Polish game development championship among highschool students: ["Turniej Trójgamiczny"](https://www.t3g.pl/).
+  - 🏆 The game was created in a team of ten, as part of game development championship among highschool students in Poland: ["Turniej Trójgamiczny"](https://www.t3g.pl/).
 - 👨‍💻 My main goal is to grow in the game development industry, and I'd love to contribute to the open-source community!
 #### My metrics
 
