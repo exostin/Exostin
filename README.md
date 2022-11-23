@@ -17,3 +17,4 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=exostin&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&show_icons=true&include_all_commits=true)
  -->
 ![](https://hit.yhype.me/github/profile?user_id=18118467)
+<a rel="me" href="https://home.social/@exostin"></a>
