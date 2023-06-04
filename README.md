@@ -4,9 +4,10 @@
   - 🌿 Worked mainly on the turn-based battle system, but the game also consists of a city-building system!
   - 🏆 Expiry Date was created in a team of ten, as part of a nationwide game development championship among highschool students: ["Turniej Trójgamiczny"](https://www.t3g.pl/).
 - 👨‍💻 I'm currently working as a Junior .NET Developer, but I'm also interested in game development and I want to contribute to an open-source project one day :)
-#### My metrics
 
-![Metrics](/github-metrics.svg)
+<!-- #### My metrics
+
+![Metrics](/github-metrics.svg) -->
 
 <!-- 
 ![Profile views](https://komarev.com/ghpvc/?username=exostin&style=for-the-badge)
