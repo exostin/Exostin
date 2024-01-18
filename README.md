@@ -1,4 +1,4 @@
-# Welcome :)
+ # Welcome :)
 I've been curious about how things work basically since I could understand spoken language. Disassembling electronic toys, watching tech, engineering, science and biology TV shows.
 
 At the age of 10, I was tinkering around with video editing software, modding games, fixing other people's PC issues, messing around with Linux (elementary OS), and trying to pick up C++.
@@ -9,7 +9,7 @@ At the age of 18, I participated in a national game development championship amo
 
 Soon after finishing that, I've picked up another apprenticeship, where I made my first ASP.NET Core MVC [web app](WatchList_DEMO.gif) for tracking watched movies and series. Not long after which, I got my first job as a Junior .NET Developer in a company providing tailored solutions, and SaaS targeted at e-commerce.
 
-In the meantime, on the road to being a full-blown geek, I've learned and became attached to the vim key bindings, utilizing them wherever possible; gone down the OpSec rabbit hole (online security, privacy and anonymity); as well as into one on FOSS and philosophy surrounding it, picking up lots of knowledge along the way, and switching my main OS to GNU/Linux :)
+In the meantime, on the road to being a full-blown geek, I've learned and became attached to the vim key bindings; gone down the OpSec rabbit hole (online security, privacy and anonymity); as well as into one on FOSS and philosophy surrounding it, picking up lots of knowledge along the way, and switching my main OS to GNU/Linux!
 
 I attended [Code Europe](https://www.codeeurope.pl/en/), the largest tech event in Poland, where I've got the opportunity to listen to highly experienced people teach interesting programming concepts. Thanks to which I've got some insight into concepts such as: CQRS (from the creator himself!), container orchestration, automated testing approaches, code architecture (event-driven, event mesh, service mesh), and more!
 
