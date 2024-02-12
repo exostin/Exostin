@@ -14,7 +14,7 @@ In the meantime, pursuing the path of a geek, I've learned and became attached t
 I attended [Code Europe](https://www.codeeurope.pl/en/), the largest tech conference in Poland, where I've got the opportunity to listen to highly experienced people teach interesting programming concepts. Thanks to which I've got some insight into concepts such as: CQRS (from the creator himself!), container orchestration, automated testing approaches, code architecture (event-driven, event mesh, service mesh), and more!
 
 ## Done some things with
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,visualstudio,git,js,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,visualstudio,git,js,jquery,latex)](https://skillicons.dev)
 
 ## On my to-do list
 [![My Skills](https://skillicons.dev/icons?i=rust,ts,angular,react)](https://skillicons.dev)
