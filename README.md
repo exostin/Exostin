@@ -11,7 +11,7 @@ Soon after finishing that, I've picked up another apprenticeship, where I made m
 
 In the meantime, pursuing the path of a geek, I've learned and became attached to the vim key bindings; gone down the OpSec rabbit hole (online security, privacy and anonymity); as well as into one on FOSS and philosophy surrounding it, picking up lots of knowledge along the way, and switching to GNU/Linux as my main OS!
 
-I attended [Code Europe](https://www.codeeurope.pl/en/), the largest tech conference in Poland, where I've got the opportunity to listen to highly experienced people teach interesting programming concepts. Thanks to which I've got some insight into concepts such as: CQRS (from the creator himself!), container orchestration, automated testing approaches, code architecture (event-driven, event mesh, service mesh), and more!
+I attended [Code Europe](https://www.codeeurope.pl/en/), the largest tech conference in Poland, where I've got the opportunity to listen to highly experienced people teach interesting programming concepts. Thanks to which I've got some insight into concepts such as: CQRS, event sourcing, container orchestration, automated testing approaches, code architecture (event-driven, event mesh, service mesh), and more!
 
 ## Done some things with
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,unity,visualstudio,git,js,jquery,latex)](https://skillicons.dev)
